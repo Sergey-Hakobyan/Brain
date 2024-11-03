@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #121113;
+}
+.images{
+position:absolute;
+width:0.26042vw;
+}
+#brain{
+    width: 19.01042vw ;
+    height: 15.88542vw ;
+}
